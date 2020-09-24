@@ -1,0 +1,2 @@
+D:\Game Making\Tanks AI\Battle Tanks\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Game Making\Tanks AI\Battle Tanks\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
